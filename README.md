@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá!!! Eu sou o Isaias Lira 👋
 
-<!--
-**lirasisaias/lirasisaias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lirasisaias&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+### Tecnologias eu uso no meu dia:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+</div><br>
+
+Apaixonado por tecnologia e sempre procurando aprender mais!
+
+### Meus contatos:
+
+- E-mail - lirasisaias@gmail.com
+- WhatsApp - (85)985508596
+- Telefone - (85)985508596 / (85)986137077
