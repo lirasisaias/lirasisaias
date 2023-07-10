@@ -1,6 +1,6 @@
 ## Olá!!! Eu sou o Isaias Lira 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lirasisaias&show_icons=true&theme=dark)
+
 
 ### Tecnologias eu uso no meu dia:
 
